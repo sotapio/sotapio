@@ -22,7 +22,11 @@
 <img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,flask,django,laravel,wordpress" />
 
 🛠️ Dev Tools / Cloud / Others
-開発や設計に使っているその他のツール：
+開発や設計に使っているツール：
 
 <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,aws,figma" />
 
+🏡 Others
+その他のツール：
+
+<img src="https://skillicons.dev/icons?i=instagram,twitter,gmail,notion" />
