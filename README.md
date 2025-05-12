@@ -8,7 +8,6 @@
 
 4. You can find my Zenn Blog [here](https://zenn.dev/manase)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotapio&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sotapio&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sotapio&theme=default)
