@@ -16,7 +16,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,,flask,django,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,flask,django,laravel,wordpress" /> <br /><br />
 
 ## DB and Dev Tools etc
 
