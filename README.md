@@ -15,14 +15,14 @@
 ⚙️ Frameworks & Libraries
 使用経験のあるフレームワーク・ライブラリ類：
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,flask,django,laravel,wordpress" />
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,threejs,flask,django,laravel,wordpress" />
 
 ***
 
 🛠️ Dev Tools / Cloud / Others
 開発や設計に使っているツール：
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,figma,illustrator,photoshop" />
 
 ***
 
