@@ -24,7 +24,7 @@
 🛠️ Dev Tools / Cloud / Others
 開発や設計に使っているツール：
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,aws,figma,webstome,raspberry" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,aws,figma,webstome,raspberrypi" />
 
 🏡 Others
 その他のツール：
