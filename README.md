@@ -20,4 +20,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,cursor,linux,aws,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,aws,figma" /> <br /><br />
