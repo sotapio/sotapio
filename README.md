@@ -8,11 +8,8 @@
 
 4. You can find my Zenn Blog [here](https://zenn.dev/manase)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sotapio&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sotapio&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sotapio&theme=default&utcOffset=8)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sotapio&show_icons=true&locale=en&layout=compact)
 
 🖥️ Programming Languages
 使用経験のある言語たちです：
@@ -20,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php" />
 
 ⚙️ Frameworks & Libraries
-よく使うフレームワーク・ライブラリ類：
+使用経験のあるフレームワーク・ライブラリ類：
 
 <img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,flask,django,laravel,wordpress" />
 
