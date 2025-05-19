@@ -1,6 +1,6 @@
 <h1>👋Hi! I'm sotapio！</h1>
 <p>
-  趣味：好きなバンドのライブに行くこと<br/>
+  趣味：好きなバンドのライブに行くことです！<br/>
   好きなバンド：THE ORAL CIGARETTES , SiM , SaucyDog , Maki
 </p>
 
