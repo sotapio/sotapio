@@ -4,7 +4,7 @@
   好きなバンド：THE ORAL CIGARETTES , SiM , SaucyDog , Maki , 04Limitedsazabys
 </p>
 <p>
-  【技育CAMP2024】ハッカソン Vol.21 最優秀賞 受賞
+  【技育CAMP2024】ハッカソン Vol.21 最優秀賞 受賞<br/>
   【技育CAMP2025】ハッカソン Vol.5 即席チーム 努力賞 受賞
 </p>
 
