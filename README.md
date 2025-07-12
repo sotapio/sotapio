@@ -1,7 +1,8 @@
 <h1>👋Hi!!! I'm sotapio！</h1>
 <p>
   趣味：好きなバンドのライブに行くことです！<br/>
-  好きなバンド：THE ORAL CIGARETTES , SiM , SaucyDog , Maki , 04Limitedsazabys
+  好きなバンド：THE ORAL CIGARETTES , SiM , SaucyDog , Maki , 04Limitedsazabys<br/>
+  最近はアイドルもジャニーズもいいねって感じ
 </p>
 <p>
   【技育CAMP2024】ハッカソン Vol.21 最優秀賞 受賞<br/>
