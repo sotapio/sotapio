@@ -2,7 +2,7 @@
 <p>
   趣味：好きなバンドのライブに行くことです！<br/>
   好きなバンド：THE ORAL CIGARETTES , SiM , SaucyDog , Maki , 04Limitedsazabys<br/>
-  最近はアイドルもジャニーズもいいねって感じ
+  最近はアイドルもジャニーズもいいねって感じ！！
 </p>
 <h2>
   受賞歴
