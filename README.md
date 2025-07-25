@@ -13,6 +13,9 @@
 <br/>
   【技育CAMP2025】ハッカソン Vol.6 努力賞 受賞
 </p>
+<p>
+  PHP全然使ってないのになんか使用率いちばん高い🤔
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
