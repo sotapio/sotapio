@@ -13,8 +13,15 @@
 <br/>
   【技育CAMP2025】ハッカソン Vol.6 努力賞 受賞
 </p>
+
+<h2>
+  雑談
+</h2>
 <p>
   PHP全然使ってないのになんか使用率いちばん高い🤔
+</p>
+<p>
+  Zenn始めましたこれから書いてきます😆
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
