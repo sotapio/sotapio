@@ -22,6 +22,7 @@
 </p>
 <p>
   Zenn始めましたこれから書いてきます😆
+  ちょっとだけモチベ下がり中
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
