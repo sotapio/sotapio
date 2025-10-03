@@ -1,8 +1,7 @@
 <h1>👋Hi!! I'm sotapio！！</h1>
 <p>
   趣味：好きなバンドのライブに行くことです！<br/>
-  好きなバンド：THE ORAL CIGARETTES , SiM , SaucyDog , Maki , 04Limitedsazabys<br/>
-  最近はアイドルもジャニーズもいいねって感じ！！
+  好きなバンド：THE ORAL CIGARETTES , SiM , SaucyDog , Maki , 04Limitedsazabys
 </p>
 <h2>
   受賞歴
@@ -18,10 +17,8 @@
   雑談
 </h2>
 <p>
-  PHP全然使ってないのになんか使用率いちばん高い🤔
-</p>
-<p>
-  インターン楽しかったなぁ
+  山中拓也結婚おめでとーー、、、！！！😭😭<br/>
+  普通に感動してうるうる
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
