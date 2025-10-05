@@ -18,7 +18,7 @@
 </h2>
 <p>
   山中拓也結婚おめでとーー、、、！！！😭😭<br/>
-  普通に感動してうるうる
+  普通にめっちゃ感動してうるうる
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
