@@ -17,7 +17,7 @@
   雑談
 </h2>
 <p>
-  土日はハジマザ！！！！！
+  ハジマザのオーラルで大号泣😭
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
