@@ -8,16 +8,17 @@
 </h2>
 <p>
   【技育CAMP2024】ハッカソン Vol.21 最優秀賞 受賞<br/>
-  【技育CAMP2025】ハッカソン Vol.5 即席チーム 努力賞 受賞
-<br/>
-  【技育CAMP2025】ハッカソン Vol.6 努力賞 受賞
+  【技育CAMP2025】ハッカソン Vol.5 即席チーム 努力賞 受賞<br/>
+  【技育CAMP2025】ハッカソン Vol.6 努力賞 受賞<br/>
+  技育展 決勝進出
 </p>
 
 <h2>
   雑談
 </h2>
 <p>
-  ハジマザのオーラルで大号泣😭
+  BLARE FEST.2026 day2
+  THE ORAL CIGARRETTES 2/16
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
