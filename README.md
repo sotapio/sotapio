@@ -17,7 +17,7 @@
   雑談
 </h2>
 <p>
-  BLARE FEST.2026 day2
+  BLARE FEST.2026 day2<br/>
   THE ORAL CIGARRETTES 2/16
 </p>
 
