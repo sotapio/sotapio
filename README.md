@@ -17,8 +17,8 @@
   雑談
 </h2>
 <p>
-  BLARE FEST.2026 day2<br/>
   THE ORAL CIGARRETTES 2/16
+  THE ORAL CIGARRETTES 7/16
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sotapio&theme=default)
