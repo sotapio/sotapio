@@ -20,9 +20,9 @@
   FREEDOM 5/16,17 <br/>
   Maki 6/18 <br/>
   YONFES 6/21 <br/>
-  京都大作戦 7/4,5
-  THE ORAL CIGARRETTES 7/16 
-  THE ORAL CIGARRETTES 10/12
+  京都大作戦 7/4,5 <br/>
+  THE ORAL CIGARRETTES 7/16 <br/>
+  THE ORAL CIGARRETTES 10/12 <br/>
   天和 11/22
 </p>
 
