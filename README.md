@@ -17,7 +17,6 @@
   雑談
 </h2>
 <p>
-  FREEDOM 5/16,17 <br/>
   Maki 6/18 <br/>
   YONFES 6/21 <br/>
   京都大作戦 7/4,5 <br/>
