@@ -17,11 +17,11 @@
   雑談
 </h2>
 <p>
-  Maki 6/18 <br/>
-  YONFES 6/21 <br/>
-  京都大作戦 7/4,5 <br/>
-  THE ORAL CIGARRETTES 7/16 <br/>
+  SOH AIBIS 8/20 <br/>
+  SOH AIBIS 8/22 <br/>
   THE ORAL CIGARRETTES 10/12 <br/>
+  テンシンランマン 10/19 <br/>
+  HAZIKETEMAZARE 2026 10/24,25 <br/>
   天和 11/22
 </p>
 
